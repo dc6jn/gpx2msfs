@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GpsPrune v22.2 activityworkshop.net"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+	<name>Death Valley</name>
+	<desc>span 20</desc>
+	<trk>
+		<name>Death Valley</name>
+		<number>1</number>
+		<trkseg>
+			<trkpt lat="36.2631317" lon="-116.0032467">
+				<ele>777.3</ele>
+			</trkpt>
+			<trkpt lat="36.2635867" lon="-116.0829367">
+				<ele>760.3</ele>
+			</trkpt>
+			<trkpt lat="36.2796233" lon="-116.1432733">
+				<ele>865.9</ele>
+			</trkpt>
+			<trkpt lat="36.303615" lon="-116.19369">
+				<ele>756.3</ele>
+			</trkpt>
+			<trkpt lat="36.3227667" lon="-116.25026">
+				<ele>716.8</ele>
+			</trkpt>
+			<trkpt lat="36.3474433" lon="-116.2998333">
+				<ele>652.1</ele>
+			</trkpt>
+			<trkpt lat="36.330055" lon="-116.35865">
+				<ele>604.7</ele>
+			</trkpt>
+			<trkpt lat="36.3053267" lon="-116.4082867">
+				<ele>597.9</ele>
+			</trkpt>
+			<trkpt lat="36.3032117" lon="-116.4860267">
+				<ele>673.2</ele>
+			</trkpt>
+			<trkpt lat="36.3181467" lon="-116.5479317">
+				<ele>790.5</ele>
+			</trkpt>
+			<trkpt lat="36.34112" lon="-116.59978">
+				<ele>904.8</ele>
+			</trkpt>
+			<trkpt lat="36.362885" lon="-116.653225">
+				<ele>798.8</ele>
+			</trkpt>
+			<trkpt lat="36.367635" lon="-116.7279217">
+				<ele>513.5</ele>
+			</trkpt>
+			<trkpt lat="36.3980517" lon="-116.770335">
+				<ele>320.0</ele>
+			</trkpt>
+			<trkpt lat="36.4279333" lon="-116.8135117">
+				<ele>139.7</ele>
+			</trkpt>
+			<trkpt lat="36.4524183" lon="-116.863255">
+				<ele>-82.4</ele>
+			</trkpt>
+			<trkpt lat="36.5054833" lon="-116.877635">
+				<ele>-94.7</ele>
+			</trkpt>
+			<trkpt lat="36.556735" lon="-116.894365">
+				<ele>-101.6</ele>
+			</trkpt>
+			<trkpt lat="36.585415" lon="-116.93892">
+				<ele>-101.0</ele>
+			</trkpt>
+			<trkpt lat="36.6104833" lon="-116.9881783">
+				<ele>-74.1</ele>
+			</trkpt>
+			<trkpt lat="36.6400467" lon="-117.0318567">
+				<ele>3.7</ele>
+			</trkpt>
+			<trkpt lat="36.612745" lon="-117.07837">
+				<ele>-53.6</ele>
+			</trkpt>
+			<trkpt lat="36.6045833" lon="-117.14844">
+				<ele>-25.4</ele>
+			</trkpt>
+			<trkpt lat="36.57246" lon="-117.1888917">
+				<ele>92.7</ele>
+			</trkpt>
+			<trkpt lat="36.531375" lon="-117.2181333">
+				<ele>407.9</ele>
+			</trkpt>
+			<trkpt lat="36.4783733" lon="-117.2324267">
+				<ele>764.5</ele>
+			</trkpt>
+			<trkpt lat="36.43168" lon="-117.25471">
+				<ele>1226.7</ele>
+			</trkpt>
+			<trkpt lat="36.38914" lon="-117.2820583">
+				<ele>1458.1</ele>
+			</trkpt>
+			<trkpt lat="36.3459867" lon="-117.3087283">
+				<ele>988.6</ele>
+			</trkpt>
+			<trkpt lat="36.3422667" lon="-117.3845017">
+				<ele>447.9</ele>
+			</trkpt>
+			<trkpt lat="36.3375933" lon="-117.4589783">
+				<ele>530.1</ele>
+			</trkpt>
+			<trkpt lat="36.347975" lon="-117.526345">
+				<ele>962.2</ele>
+			</trkpt>
+			<trkpt lat="36.3659517" lon="-117.5844667">
+				<ele>1393.4</ele>
+			</trkpt>
+			<trkpt lat="36.3751733" lon="-117.6064333">
+				<ele>1456.2</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
