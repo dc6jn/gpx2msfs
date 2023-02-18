@@ -113,8 +113,10 @@ The tool [GPSPrune](https://activityworkshop.net/software/gpsprune/) is a java p
 If you finally have a suitable gpx dataset you can create the msfs project with
 
 ```bash
-gpx2msfs.py -s demo -o myproject -c me -m mycompany demo\usa_100mcleaned.gpx
+gpx2msfs.py -s demo -o myproject -c me -m mycompany demo\death_valley_span20.gpx
 ```
+> **NOTE**
+> The options **-c** and **-m** can be omitted, defaults will be used.
 Shortly afterwards **you should**™ get a valid folder structure in **myproject**
 
 Within this folder there should be a file demo.xml.
