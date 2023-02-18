@@ -18,7 +18,7 @@ gpx2msfs.py [-h]
                                                         i.e. *.gpx
                                                         
 gpx2msfs -s myjourney [my_last_journey.gpx]             produce a msfs project named myjourney 
-+```
+```
 
 
 
@@ -138,4 +138,4 @@ I'm sure there will be bugs. If you find one let me know, or, even better, send 
 Some ideas for future improvement are
 * make my own POI signs with custom layout (direction arrows, nice symbols)
 * add "billboards" with images from that location during my visit
-* add ability to switch on/off only selected groups tracks/waypoints
+* add ability to switch on/off only selected groups of tracks/waypoints
